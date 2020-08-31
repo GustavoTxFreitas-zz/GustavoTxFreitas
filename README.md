@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=GustavoTxFreitas&show_icons=true+hide_border=true)
 
 <!--
