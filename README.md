@@ -6,7 +6,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTxFreitas&layout=compact&bg_color=DEG,fe667d,ffa375&title_color=fff&text_color=fff" alt="Github Top Langs" height='140'/>
 </p>
 
-<br>
 <hr>
 
 <p align="center">
