@@ -1,9 +1,9 @@
 <p align="center">
 <!-- Github Stats: showIcons, Deg, Title, Icon, Text, Hide -->
-<img src="https://github-readme-stats.vercel.app/api?username=GustavoTxFreitas&show_icons=true&bg_color=DEG,fe667d,ffa375&title_color=fff&icon_color=fff&text_color=fff&hide=prs,issues" alt="Github Readme Stats" height='140'/>
+<img src="https://github-readme-stats.vercel.app/api?username=GustavoTxFreitas&show_icons=true&bg_color=DEG,3b7db8,50cc7f&title_color=fff&icon_color=fff&text_color=fff&hide=stars,issues" alt="Github Readme Stats" height='140'/>
 
-<!-- Github Stats: showIcons, Deg, Title, Icon, Text, Hide -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTxFreitas&layout=compact&bg_color=DEG,fe667d,ffa375&title_color=fff&text_color=fff" alt="Github Top Langs" height='140'/>
+<!-- Github Stats: showIcons, Deg, Title, Icon, Text -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTxFreitas&layout=compact&bg_color=DEG,3b7db8,50cc7f&title_color=fff&text_color=fff" alt="Github Top Langs" height='140'/>
 </p>
 
 <hr>
@@ -21,6 +21,6 @@
   
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />
-  
+  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" alt="firebase" />
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
